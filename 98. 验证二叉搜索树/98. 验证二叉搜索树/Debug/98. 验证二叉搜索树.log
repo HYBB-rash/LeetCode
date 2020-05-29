@@ -1,0 +1,4 @@
+﻿  98. 验证二叉搜索树.cpp
+e:\code\c plus plus code\代码\leetcode\98. 验证二叉搜索树\98. 验证二叉搜索树\98. 验证二叉搜索树.cpp(24): warning C4018: “<”: 有符号/无符号不匹配
+MSVCRTD.lib(exe_main.obj) : error LNK2019: 无法解析的外部符号 _main，该符号在函数 "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ) 中被引用
+E:\code\c plus plus code\代码\leetcode\98. 验证二叉搜索树\Debug\98. 验证二叉搜索树.exe : fatal error LNK1120: 1 个无法解析的外部命令

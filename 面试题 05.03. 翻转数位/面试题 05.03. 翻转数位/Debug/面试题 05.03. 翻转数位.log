@@ -1,0 +1,11 @@
+﻿  demo.cpp
+e:\code\c plus plus code\代码\leetcode\面试题 05.03. 翻转数位\面试题 05.03. 翻转数位\demo.cpp(7): warning C4244: “初始化”: 从“double”转换到“__int64”，可能丢失数据
+e:\code\c plus plus code\代码\leetcode\面试题 05.03. 翻转数位\面试题 05.03. 翻转数位\demo.cpp(9): warning C4244: “参数”: 从“__int64”转换到“_Ty”，可能丢失数据
+          with
+          [
+              _Ty=int
+          ]
+e:\code\c plus plus code\代码\leetcode\面试题 05.03. 翻转数位\面试题 05.03. 翻转数位\demo.cpp(14): warning C4018: “<”: 有符号/无符号不匹配
+e:\code\c plus plus code\代码\leetcode\面试题 05.03. 翻转数位\面试题 05.03. 翻转数位\demo.cpp(18): warning C4018: “<”: 有符号/无符号不匹配
+e:\code\c plus plus code\代码\leetcode\面试题 05.03. 翻转数位\面试题 05.03. 翻转数位\demo.cpp(26): warning C4018: “<”: 有符号/无符号不匹配
+  面试题 05.03. 翻转数位.vcxproj -> E:\code\c plus plus code\代码\leetcode\面试题 05.03. 翻转数位\Debug\面试题 05.03. 翻转数位.exe

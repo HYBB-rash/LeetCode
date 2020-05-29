@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.902
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1221. 分割平衡字符串", "1221. 分割平衡字符串\1221. 分割平衡字符串.vcxproj", "{36122343-D712-427D-B080-E682F0E5682C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{36122343-D712-427D-B080-E682F0E5682C}.Debug|x64.ActiveCfg = Debug|x64
+		{36122343-D712-427D-B080-E682F0E5682C}.Debug|x64.Build.0 = Debug|x64
+		{36122343-D712-427D-B080-E682F0E5682C}.Debug|x86.ActiveCfg = Debug|Win32
+		{36122343-D712-427D-B080-E682F0E5682C}.Debug|x86.Build.0 = Debug|Win32
+		{36122343-D712-427D-B080-E682F0E5682C}.Release|x64.ActiveCfg = Release|x64
+		{36122343-D712-427D-B080-E682F0E5682C}.Release|x64.Build.0 = Release|x64
+		{36122343-D712-427D-B080-E682F0E5682C}.Release|x86.ActiveCfg = Release|Win32
+		{36122343-D712-427D-B080-E682F0E5682C}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A49B2907-17B1-48EF-8BB8-4489FF8D5FB0}
+	EndGlobalSection
+EndGlobal

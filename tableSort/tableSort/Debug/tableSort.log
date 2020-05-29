@@ -1,0 +1,4 @@
+﻿  tableSort.cpp
+e:\code\c plus plus code\代码\leetcode\tablesort\tablesort\tablesort.cpp(19): warning C4018: “<”: 有符号/无符号不匹配
+e:\code\c plus plus code\代码\leetcode\tablesort\tablesort\tablesort.cpp(28): warning C4018: “<”: 有符号/无符号不匹配
+  tableSort.vcxproj -> E:\code\c plus plus code\代码\leetcode\tableSort\Debug\tableSort.exe
