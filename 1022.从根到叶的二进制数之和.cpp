@@ -28,7 +28,7 @@ public:
         if(root->left == nullptr && root->right == nullptr)
             sum += cnt;
         sss(root->left, cnt << 1);
-        sss(root->right, cnt << 1);
+        sss(root->right, cnt << 1); 
         return sum;
     }
 };
